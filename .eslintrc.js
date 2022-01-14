@@ -20,6 +20,7 @@ module.exports = {
         },
       },
     ],
-    "@typescript-eslint/no-non-null-assertion": off,
+    "@typescript-eslint/no-non-null-assertion": 0,
+    "@typescript-eslint/no-explicit-any": 0,
   },
 };
